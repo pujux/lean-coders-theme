@@ -1,9 +1,10 @@
 {
     "name": "lean-coders-theme",
     "displayName": "Lean-Coders Theme",
-    "description": "",
+    "description": "Lean-Coders VS Code Theme",
+    "icon": "images/logo.png",
     "publisher": "JulianPufler",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "url": "https://github.com/puf17640/lean-coders-theme",
         "type": "github"
